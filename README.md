@@ -30,6 +30,6 @@ The dataset was divided into training and testing sets to evaluate the model's p
 
 ## Acknowledgements
 
-This project was developed using TensorFlow, Keras, and the MobileNetV2 architecture. The initial training and testing code structure was adapted from an open-source GitHub repository and subsequently modified to suit the eye/non-eye image classification task. Significant changes were made to the dataset, preprocessing pipeline, model configuration, and evaluation process to meet the objectives of this project.
+This project was developed using TensorFlow, Keras, and the MobileNetV2 architecture. The initial training and testing code structure was adapted from an open-source GitHub repository (by @praths71018) and subsequently modified to suit the eye/non-eye image classification task. Significant changes were made to the dataset, preprocessing pipeline, model configuration, and evaluation process to meet the objectives of this project.
 
 Special thanks to the open-source community for providing valuable resources, documentation, and reference implementations that supported the development of this work.

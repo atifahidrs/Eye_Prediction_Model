@@ -21,7 +21,7 @@ The dataset was divided into training and testing sets to evaluate the model's p
 
 ---
 
-## Link to Project
+## Link to Baseline Model
 
 **GitHub Repository:**
 [https://github.com/praths71018/Eye_Disease_Prediction/]

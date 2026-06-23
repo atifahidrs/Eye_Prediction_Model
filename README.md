@@ -12,7 +12,7 @@ This model addresses a common challenge in eye disease detection applications, w
 
 ## Dataset
 
-A custom dataset was collected and prepared specifically for this project. The dataset consists of two classes:
+A custom dataset was collected and prepared from publicly available sources, such as Kaggle and Roboflow. The dataset consists of two classes:
 
 * **Eye Images** – Images containing human eyes from various conditions, angles, and lighting environments.
 * **Non-Eye Images** – Images that do not contain human eyes, including everyday objects, scenery, animals, buildings, indoor scenes, and etc.
